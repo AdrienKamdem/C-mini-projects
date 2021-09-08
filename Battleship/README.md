@@ -1,4 +1,4 @@
-#### Battleship game rules
+# Battleship game rules
 
 Battleship is a war-themed board game for two players in which the opponents try to guess the location of their opponent's warships and sink them.
 
